@@ -1,3 +1,3 @@
 # python-go
-python examples
+python examples.
 Sample code for downloading of yputube
